@@ -32,7 +32,7 @@
 You can download RWPP release version in the releases.
 Also download [RWPP Windows]([https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwpp-windows-x64-1.0.0.jar)
 
-## Installation
+# Installation
 1. Download RWPP Zip & RWPP Window Jar
 2. Unzip File
 3. Drag Folder Into RustedWarefar folder
