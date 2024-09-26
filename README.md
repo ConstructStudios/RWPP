@@ -31,6 +31,13 @@
 # Download
 You can download RWPP release version in the releases.
 
+# Installation
+1.
+2.
+3.
+4.
+5.
+
 # Run
 - Install [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
 - Copy RWPP to your rw root directory.
