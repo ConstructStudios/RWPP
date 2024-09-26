@@ -36,3 +36,21 @@ You can download RWPP release version in the releases.
 - Copy RWPP to your rw root directory.
 > eg. Program Files (x86)\Steam\steamapps\common\Rusted Warfare
 - Run launcher.bat
+
+# Build
+Run gradle task `shared:rebuildJar` to build necessary libs at first.
+
+OpenJdk 17 or above
+
+For desktop, run task `desktop:packageReleaseUberJarForCurrentOS`
+
+For android, assets and res are missing for some reason,
+you can find them in your Rusted Warfare client.
+
+# Contribute
+If you want to create international support for your native language,
+You can go `shared/src/commonMain/composeResources/files` to create a new bundle.
+
+# Thanks
+
+[RW-HPS](https://github.com/deng-rui/RW-HPS)
