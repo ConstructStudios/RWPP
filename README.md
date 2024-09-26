@@ -53,4 +53,4 @@ You can go `shared/src/commonMain/composeResources/files` to create a new bundle
 
 # Thanks
 
-[RW-HPS](https://github.com/deng-rui/RW-HPS)
+[RW-HPS](https://github.com/deng-rui/RW-HPS) | [Minxyzgo](https://github.com/Minxyzgo)
