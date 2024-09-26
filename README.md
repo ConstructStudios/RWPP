@@ -27,3 +27,12 @@
  - __More room options__ (Such as lock room and team look)
  - __External Resource__
  - __New UI__
+
+ - # Download
+You can download RWPP release version in the releases.
+
+# Run
+- Install Java 17
+- Copy RWPP to your rw root directory.
+> eg. SteamLibrary\steamapps\common\Rusted Warfare\
+- Run launcher.bat
