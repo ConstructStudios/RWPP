@@ -17,3 +17,13 @@
 [![License](https://img.shields.io/github/license/ConstructStudios/RWPP)]()
 [![Issues](https://img.shields.io/github/issues/ConstructStudios/RWPP)]()
 </div>
+
+## Implemented
+ - __Ban Units__
+ - __IME fixed__
+ - __Transferring mod__ (experimental)
+ - __Blacklists__
+ - __List filter__
+ - __More room options__ (Such as lock room and team look)
+ - __External Resource__
+ - __New UI__
