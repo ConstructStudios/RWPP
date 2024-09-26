@@ -38,10 +38,9 @@ You can download RWPP release version in the releases.
 4. Extract RWPP
 5. Drag Context Inside RWPP Into RW Root
 6. Drag RWPP-Window Jar into RW Root
+   > eg. Program Files (x86)\Steam\steamapps\common\Rusted Warfare
 
 # Run
-- Copy RWPP to your rw root directory.
-> eg. Program Files (x86)\Steam\steamapps\common\Rusted Warfare
 - Run launcher.bat
 
 # Build
