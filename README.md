@@ -30,7 +30,7 @@
 
 ## Download
 You can download RWPP release version in the releases.
-Also download [RWPP Windows]([https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwpp-windows-x64-1.0.0.jar)
+Also download [RWPP Windows](https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwpp-windows-x64-1.0.0.jar)
 
 # Installation
 1. Download RWPP Zip & RWPP Window Jar
@@ -39,7 +39,7 @@ Also download [RWPP Windows]([https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwp
 4. Drag content inside RWPP Folder Into RW Folder including "RWPP Window Jar"
    
 # Run
-- Install Java 17
+- Install (Java 17)[https://www.oracle.com/java/technologies/downloads/#java17]
 - Copy RWPP to your rw root directory.
 > eg. Program Files (x86)\Steam\steamapps\common\Rusted Warfare
 - Run launcher.bat
