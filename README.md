@@ -33,10 +33,11 @@ You can download RWPP release version in the releases.
 
 # Installation
 1. Install [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
-2. Download RWPP 3.0 Zip
-3. Extract RWPP
-4. Drag Context Inside RWPP Into RW Root
-5. Drag RWPP-Window Jar into RW Root
+2. Install [RWPP-Windows Jar](https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwpp-windows-x64-1.0.0.jar/file)
+3. Download RWPP 3.0 Zip
+4. Extract RWPP
+5. Drag Context Inside RWPP Into RW Root
+6. Drag RWPP-Window Jar into RW Root
 
 # Run
 - Install [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
