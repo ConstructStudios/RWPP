@@ -28,7 +28,7 @@
  - __External Resource__
  - __New UI__
 
- - # Download
+## Download
 You can download RWPP release version in the releases.
 
 # Run
