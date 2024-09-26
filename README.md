@@ -1,21 +1,21 @@
 <div align="center">
-<h1> RWPP 3.0 </h1>
+<h1> RWPP </h1>
 <div align="center">
-  <strong>Multiplatform Launcher For Rusted Warfare</strong>
+  <strong>multiplatform launcher for Rusted Warfare</strong>
 </div>
 <br />
 <div align="center">
  <img src = "https://github.com/Minxyzgo/RWPP/blob/main/shared/src/commonMain/composeResources/drawable/logo.png" width = "100px"/>
 </div>
 <br />
-  
+
 ----
 [![Kotlin](https://img.shields.io/badge/kotlin-1.9.24-blue.svg?logo=kotlin)](http://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.7.0-brightgreen)](https://www.jetbrains.com/lp/compose-multiplatform/)
 ![Android](https://img.shields.io/badge/Android-green)
 ![Desktop](https://img.shields.io/badge/Desktop-tomato)
-[![License](https://img.shields.io/github/license/ConstructStudios/RWPP)]()
-[![Issues](https://img.shields.io/github/issues/ConstructStudios/RWPP)]()
+[![License](https://img.shields.io/github/license/Minxyzgo/RWPP)]()
+[![Issues](https://img.shields.io/github/issues/Minxyzgo/RWPP)]()
 </div>
 
 ## Implemented
@@ -28,20 +28,13 @@
  - __External Resource__
  - __New UI__
 
-## Download
+# Download
 You can download RWPP release version in the releases.
-Also download [RWPP Windows](https://www.mediafire.com/file/8hcxtqv4zbsa3sz/Rwpp-windows-x64-1.0.0.jar)
 
-# Installation
-1. Download RWPP Zip & RWPP Window Jar
-2. Unzip File
-3. Drag Folder Into RustedWarefar folder
-4. Drag content inside RWPP Folder Into RW Folder including "RWPP Window Jar"
-   
 # Run
-- Install [Java 17](https://www.oracle.com/java/technologies/downloads/#java17)
+- Install Java 17
 - Copy RWPP to your rw root directory.
-> eg. Program Files (x86)\Steam\steamapps\common\Rusted Warfare
+> eg. SteamLibrary\steamapps\common\Rusted Warfare\
 - Run launcher.bat
 
 # Build
@@ -60,4 +53,4 @@ You can go `shared/src/commonMain/composeResources/files` to create a new bundle
 
 # Thanks
 
-[RW-HPS](https://github.com/deng-rui/RW-HPS) | [Minxyzgo](https://github.com/Minxyzgo)
+[RW-HPS](https://github.com/deng-rui/RW-HPS)
